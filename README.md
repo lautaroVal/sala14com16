@@ -3,4 +3,4 @@
 ##Integrantes
 Julieta
 Belen
-Lautaro
+Lautaro = 22, San Miguel
